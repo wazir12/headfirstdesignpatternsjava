@@ -1,6 +1,5 @@
-package com.example.designpatterns.strategy.ducks;
+package com.example.designpatterns.strategy;
 
-import com.example.designpatterns.strategy.Duck;
 import com.example.designpatterns.strategy.fly.FlyWithRocketPowered;
 import com.example.designpatterns.strategy.quack.QuackWithHorn;
 import org.junit.Test;

@@ -1,6 +1,5 @@
-package com.example.designpatterns.strategy.ducks;
+package com.example.designpatterns.strategy;
 
-import com.example.designpatterns.strategy.Duck;
 import com.example.designpatterns.strategy.fly.FlyWithWings;
 import com.example.designpatterns.strategy.quack.Quack;
 

@@ -1,6 +1,5 @@
-package com.example.designpatterns.strategy.ducks;
+package com.example.designpatterns.strategy;
 
-import com.example.designpatterns.strategy.Duck;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
